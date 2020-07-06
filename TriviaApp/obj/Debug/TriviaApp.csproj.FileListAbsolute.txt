@@ -1,0 +1,10 @@
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\bin\Debug\TriviaApp.exe.config
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\bin\Debug\TriviaApp.exe
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\bin\Debug\TriviaApp.pdb
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\obj\Debug\TriviaApp.csprojAssemblyReference.cache
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\obj\Debug\TriviaApp.csproj.CoreCompileInputs.cache
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\obj\Debug\TriviaApp.exe
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\obj\Debug\TriviaApp.pdb
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\bin\Debug\Newtonsoft.Json.dll
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\bin\Debug\Newtonsoft.Json.xml
+C:\C#\C#_Repos\source\TriviaApp\TriviaApp\obj\Debug\TriviaApp.csproj.CopyComplete
