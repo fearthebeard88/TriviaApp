@@ -20,12 +20,6 @@ namespace TriviaApp
 {
     class Program
     {
-        // TODO: Rework getting questions while players are entering categories
-        // TODO: Handle API failures for async requests
-
-        // Criteria for project:
-        // Give opposing player chance to steal
-
         // Base URL's for each type of request
         const string BASE_URL = "https://opentdb.com/api.php";
         const string BASE_TOKEN_URL = "https://opentdb.com/api_token.php";
